@@ -79,10 +79,6 @@
 [<img align="top" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:joshi.priyanshu999@gmail.com)
 <br><br>
 
-  
-## **A Snake 🐍 Eating away my Contributions...😭**
-![snake gif](https://raw.githubusercontent.com/pjoshi999/pjoshi999/output/github-contribution-grid-snake.svg)
-
 ## **A bit of Humor to cheer up your visit...😃:**<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
   
