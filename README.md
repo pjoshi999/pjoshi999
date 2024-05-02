@@ -30,6 +30,7 @@
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" / alt="React"></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Nextjs-20232A?style=for-the-badge&logo=next.js&logoColor=fff" / alt="NextJS"></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
 <a href="https://html.com/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
@@ -43,7 +44,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/></a>
-<a href="https://soliditylang.org/" target="_blank"><img src="https://img.shields.io/badge/Tailwindcss-%23363636.svg?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" alt="TailwindCSS"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwindcss-%23363636.svg?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" alt="TailwindCSS"/></a>
 <a href="https://redux.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux-%23563D7C.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/></a>
 <br>
   
