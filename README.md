@@ -12,8 +12,6 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m a Final Year Undergraduate at Swarnim Startup and Innovation University.
-
 - 🌱 I’m currently involved with Data Structures, and exploring a few Web Frameworks.
 
 - 💬 Talk to me about JavaScript, Web Development, Hackathons, and Open Source.
